@@ -1,3 +1,3 @@
 <?php
-echo 'ys';
+echo 'ys_test';
 ?>
